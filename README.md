@@ -1,0 +1,1 @@
+Edit the function f(z) to be whatever you want. run and use left/right arrows to play animation :)
